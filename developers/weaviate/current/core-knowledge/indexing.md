@@ -99,7 +99,7 @@ To determine this, you need to ask yourself the following questions and compare 
 
 The inverted index is surprisingly simple to configure, it's on or it's off and indexes on a property level.
 
-The inverted index is by default _on_. You can simply turn it of like this:
+The inverted index is by default _on_. You can simply turn it off like this:
 
 ```js
 {
